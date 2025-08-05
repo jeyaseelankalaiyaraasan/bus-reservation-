@@ -1,0 +1,8 @@
+P001;tino;078965412;jhjd@;kandy;56
+P002;kumar;0789654123;kumar@gmail.com;vavuniya;15
+P003;kavi;464;shjx;bxjks;45
+P004;h;4646;h;vg;45
+P005;ampi;0789865215;ampi@gmail.com;kegala;25
+P006;kishani;0786532145;kisha@gmail.com;trinco;26
+P007;tharsi;0783214569;tharsi@gmail.com;killinochi;23
+P008;Aishu;0785125632;aishu@gmail.com;jaffna;18

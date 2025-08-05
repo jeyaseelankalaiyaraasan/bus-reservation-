@@ -1,0 +1,6 @@
+002;14;jaffna;colombo;07.00 AM;700.0
+003;15;colombo;kandy;05 PM;500.0
+004;20;jaffna;colombo;06 PM;2500.0
+005;50;trinco;batticolo;20:20;300.0
+006;3;jaffna;kandy;07:20;500.0
+007;20;jaffna;vavuniya;14:20;300.0
